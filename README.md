@@ -11,7 +11,7 @@ Super-resolving real-world image is very challenging due to the degradations in 
 
 The architecture of our proposed Spatio-Temporal Correlation Network(STCN):
 <img width="1603" alt="1_1" src="https://user-images.githubusercontent.com/75960553/111739951-d5610080-88be-11eb-99b8-ca59f2336395.png">
-Illustration of the RCAB and the STCB architecture.
+Illustration of the RCAB and the STCB architecture:
 <img width="1496" alt="2" src="https://user-images.githubusercontent.com/75960553/111739977-e0b42c00-88be-11eb-8301-02b65895b855.png">
 
 
