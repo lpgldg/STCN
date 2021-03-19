@@ -20,5 +20,7 @@ Quantitative Results:
 Experimental results on RealSR and DRealSR datasets. Red color indicates the best performance, and blue color indicates the second best performance.
 
 Visual Results:
-<img width="1340" alt="4" src="https://user-images.githubusercontent.com/75960553/111741103-dc890e00-88c0-11eb-9379-4d2f283b35c8.png">
+
+<img width="1340" alt="4" src="https://user-images.githubusercontent.com/75960553/111741165-fb87a000-88c0-11eb-80b9-eb4408b30fdf.png">
+
 
