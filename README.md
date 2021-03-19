@@ -17,4 +17,4 @@ Illustration of the RCAB and the STCB architecture:
 # Results
 Quantitative Results:
 <img width="1292" alt="截屏2021-03-19 下午2 33 52" src="https://user-images.githubusercontent.com/75960553/111740909-84520c00-88c0-11eb-9537-d8ba0bf777ca.png">
-
+Experimental results on RealSR and DRealSR datasets. Red color indicates the best performance, and blue color indicates the second best performance
